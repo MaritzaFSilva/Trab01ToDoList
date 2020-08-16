@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="btAdd">Adicionar Tarefa</string>
+    <string name="task_title">Título</string>
+    <string name="task_description">Descrição</string>
+    <string name="btSave">Salvar</string>
+    <string name="btDelete">Excluir</string>
+    <string name="btShare">Compartilhar</string>
+    <string name="task_message">"Acabei de terminar a tarefa: "</string>
+</resources>

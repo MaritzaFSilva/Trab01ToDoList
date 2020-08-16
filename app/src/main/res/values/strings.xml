@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="btAdd">Add Task</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="btSave">Save</string>
+    <string name="btDelete">Delete</string>
+    <string name="btShare">Share</string>
+    <string name="task_message">"I just finished the task: "</string>
+</resources>
